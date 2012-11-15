@@ -1,6 +1,47 @@
+@import "compass/css3"
+@import "partials/vars"
+
 // `Basic HTML
 //----------------------------------------------------------------------------------------------------
+
+html
+  overflow-y: scroll
 
 body
   background: #fff
   color: #333
+
+// `Wrapper
+//----------------------------------------------------------------------------------------------------
+
+#wrapper
+  min-height: 100%
+
+// `Header
+//----------------------------------------------------------------------------------------------------
+
+header[role="banner"]
+  line-height: 40px
+
+// `Navigation
+//----------------------------------------------------------------------------------------------------
+
+#nav
+  background: #ccc
+  line-height: 40px
+
+// `Main
+//----------------------------------------------------------------------------------------------------
+
+div[role="main"]
+  padding-top: 20px
+  padding-bottom: $footer-height
+
+// `Footer
+//----------------------------------------------------------------------------------------------------
+
+footer[role="contentinfo"]
+  background: #ccc
+  margin-top: -1 * $footer-height
+  height: $footer-height
+  line-height: $footer-height

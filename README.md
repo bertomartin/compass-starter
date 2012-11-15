@@ -1,3 +1,3 @@
-This is just a starter package for doing flat HTML with Compass/Sass.
+Just a starter package for doing flat HTML with Compass/Sass.
 
-I use this to start small projects, for building front-end templates.
+I use it as a starting point for front-end template projects.

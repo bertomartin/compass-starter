@@ -1,4 +1,4 @@
-/* line 4, ../sass/partials/_reset.sass */
+/* line 4, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 a,
 abbr,
 acronym,
@@ -94,13 +94,13 @@ xmp {
   font-size: 100%;
 }
 
-/* line 98, ../sass/partials/_reset.sass */
+/* line 98, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 html,
 body {
   height: 100%;
 }
 
-/* line 102, ../sass/partials/_reset.sass */
+/* line 102, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 article,
 aside,
 details,
@@ -115,13 +115,13 @@ section {
   display: block;
 }
 
-/* line 120, ../sass/partials/_reset.sass */
+/* line 120, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 b,
 strong {
   font-weight: bold;
 }
 
-/* line 127, ../sass/partials/_reset.sass */
+/* line 127, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 img {
   color: transparent;
   font-size: 0;
@@ -129,24 +129,24 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
-/* line 135, ../sass/partials/_reset.sass */
+/* line 135, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 ul,
 ol {
   list-style: none;
 }
 
-/* line 139, ../sass/partials/_reset.sass */
+/* line 139, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 li {
   display: list-item;
 }
 
-/* line 146, ../sass/partials/_reset.sass */
+/* line 146, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 150, ../sass/partials/_reset.sass */
+/* line 150, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 th,
 td,
 caption {
@@ -155,26 +155,26 @@ caption {
   text-align: left;
 }
 
-/* line 157, ../sass/partials/_reset.sass */
+/* line 157, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 q {
   quotes: none;
 }
 
-/* line 160, ../sass/partials/_reset.sass */
+/* line 160, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 q:before,
 q:after {
   content: "";
   content: none;
 }
 
-/* line 165, ../sass/partials/_reset.sass */
+/* line 165, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 sub,
 sup,
 small {
   font-size: 75%;
 }
 
-/* line 170, ../sass/partials/_reset.sass */
+/* line 170, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 sub,
 sup {
   line-height: 0;
@@ -182,33 +182,33 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 176, ../sass/partials/_reset.sass */
+/* line 176, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 sub {
   bottom: -0.25em;
 }
 
-/* line 179, ../sass/partials/_reset.sass */
+/* line 179, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 sup {
   top: -0.5em;
 }
 
-/* line 182, ../sass/partials/_reset.sass */
+/* line 182, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_reset.sass */
 svg {
   overflow: hidden;
 }
 
-/* line 9, ../sass/partials/_text.sass */
+/* line 9, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 body {
   font: 13px/1.5 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif;
 }
 
-/* line 12, ../sass/partials/_text.sass */
+/* line 12, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 pre,
 code {
   font-family: "DejaVu Sans Mono", Monaco, Consolas, monospace;
 }
 
-/* line 16, ../sass/partials/_text.sass */
+/* line 16, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 hr {
   border: 0 #cccccc solid;
   border-top-width: 1px;
@@ -216,52 +216,52 @@ hr {
   height: 0;
 }
 
-/* line 25, ../sass/partials/_text.sass */
+/* line 25, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 h1 {
   font-size: 25px;
 }
 
-/* line 28, ../sass/partials/_text.sass */
+/* line 28, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 h2 {
   font-size: 23px;
 }
 
-/* line 31, ../sass/partials/_text.sass */
+/* line 31, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 h3 {
   font-size: 21px;
 }
 
-/* line 34, ../sass/partials/_text.sass */
+/* line 34, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 h4 {
   font-size: 19px;
 }
 
-/* line 37, ../sass/partials/_text.sass */
+/* line 37, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 h5 {
   font-size: 17px;
 }
 
-/* line 40, ../sass/partials/_text.sass */
+/* line 40, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 h6 {
   font-size: 15px;
 }
 
-/* line 46, ../sass/partials/_text.sass */
+/* line 46, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 ol {
   list-style: decimal;
 }
 
-/* line 49, ../sass/partials/_text.sass */
+/* line 49, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 ul {
   list-style: disc;
 }
 
-/* line 52, ../sass/partials/_text.sass */
+/* line 52, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 li {
   margin-left: 30px;
 }
 
-/* line 55, ../sass/partials/_text.sass */
+/* line 55, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_text.sass */
 p,
 dl,
 hr,
@@ -281,8 +281,43 @@ figure {
   margin-bottom: 20px;
 }
 
-/* line 4, ../sass/partials/_site.sass */
+/* line 7, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_site.sass */
+html {
+  overflow-y: scroll;
+}
+
+/* line 10, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_site.sass */
 body {
   background: white;
   color: #333333;
+}
+
+/* line 17, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_site.sass */
+#wrapper {
+  min-height: 100%;
+}
+
+/* line 23, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_site.sass */
+header[role="banner"] {
+  line-height: 40px;
+}
+
+/* line 29, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_site.sass */
+#nav {
+  background: #cccccc;
+  line-height: 40px;
+}
+
+/* line 36, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_site.sass */
+div[role="main"] {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+/* line 43, /Users/nathansmith/Projects/compass-starter/assets/sass/partials/_site.sass */
+footer[role="contentinfo"] {
+  background: #cccccc;
+  margin-top: -40px;
+  height: 40px;
+  line-height: 40px;
 }
